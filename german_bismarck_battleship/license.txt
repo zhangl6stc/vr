@@ -1,0 +1,11 @@
+Model Information:
+* title:	German Bismarck Battleship
+* source:	https://sketchfab.com/3d-models/german-bismarck-battleship-96fbc0484c0d4f028f1745c6c1a8a242
+* author:	Donnacha Fallon (https://sketchfab.com/Lycan1795)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "German Bismarck Battleship" (https://sketchfab.com/3d-models/german-bismarck-battleship-96fbc0484c0d4f028f1745c6c1a8a242) by Donnacha Fallon (https://sketchfab.com/Lycan1795) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
